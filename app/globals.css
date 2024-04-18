@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 
-table,
-th,
-td {
-  border: 1px solid black;
+#expenses table,
+#expenses th,
+#expenses td {
+  border: 1px solid rgb(36, 161, 192);
   border-collapse: collapse;
 }
